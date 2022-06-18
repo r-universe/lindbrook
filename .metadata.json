@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cholera",
+    "oncran": true
+  },
+  {
+    "package": "packageRank",
+    "oncran": true
+  }
+]
